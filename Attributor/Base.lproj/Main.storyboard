@@ -23,7 +23,7 @@
                                     <constraint firstAttribute="width" constant="368" id="b8Q-Z6-1gG"/>
                                     <constraint firstAttribute="height" constant="253" id="e2j-cP-QIX"/>
                                 </constraints>
-                                <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <variation key="default">
@@ -252,23 +252,23 @@
                                 <exclude reference="CtW-sx-MKF"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="31M-k4-RHs"/>
-                                <exclude reference="S4f-Tz-XXZ"/>
-                                <exclude reference="b5F-OG-gs7"/>
-                                <exclude reference="EVR-Rb-EE4"/>
-                                <exclude reference="xQk-9o-5hl"/>
-                                <exclude reference="7Wi-pE-Uf6"/>
-                                <exclude reference="c7x-LM-xcD"/>
+                                <exclude reference="Tid-1t-7g1"/>
+                                <exclude reference="kI6-kc-tci"/>
+                                <exclude reference="9aD-eG-k8Q"/>
                                 <exclude reference="hMb-gP-Tbh"/>
                                 <exclude reference="oXu-wr-6s0"/>
                                 <exclude reference="1wL-h9-RFE"/>
                                 <exclude reference="GQY-Kz-j3O"/>
+                                <exclude reference="UjS-cw-yHA"/>
+                                <exclude reference="7Wi-pE-Uf6"/>
+                                <exclude reference="c7x-LM-xcD"/>
+                                <exclude reference="EVR-Rb-EE4"/>
+                                <exclude reference="xQk-9o-5hl"/>
                                 <exclude reference="ZCm-kD-b0W"/>
                                 <exclude reference="uUj-Ka-Ltk"/>
-                                <exclude reference="UjS-cw-yHA"/>
-                                <exclude reference="Tid-1t-7g1"/>
-                                <exclude reference="kI6-kc-tci"/>
-                                <exclude reference="9aD-eG-k8Q"/>
+                                <exclude reference="31M-k4-RHs"/>
+                                <exclude reference="S4f-Tz-XXZ"/>
+                                <exclude reference="b5F-OG-gs7"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -283,23 +283,23 @@
                                 <include reference="CtW-sx-MKF"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="31M-k4-RHs"/>
-                                <include reference="S4f-Tz-XXZ"/>
-                                <include reference="b5F-OG-gs7"/>
-                                <include reference="EVR-Rb-EE4"/>
-                                <include reference="xQk-9o-5hl"/>
-                                <include reference="7Wi-pE-Uf6"/>
-                                <include reference="c7x-LM-xcD"/>
+                                <include reference="Tid-1t-7g1"/>
+                                <include reference="kI6-kc-tci"/>
+                                <include reference="9aD-eG-k8Q"/>
                                 <include reference="hMb-gP-Tbh"/>
                                 <include reference="oXu-wr-6s0"/>
                                 <include reference="1wL-h9-RFE"/>
                                 <include reference="GQY-Kz-j3O"/>
+                                <include reference="UjS-cw-yHA"/>
+                                <include reference="7Wi-pE-Uf6"/>
+                                <include reference="c7x-LM-xcD"/>
+                                <include reference="EVR-Rb-EE4"/>
+                                <include reference="xQk-9o-5hl"/>
                                 <include reference="ZCm-kD-b0W"/>
                                 <include reference="uUj-Ka-Ltk"/>
-                                <include reference="UjS-cw-yHA"/>
-                                <include reference="Tid-1t-7g1"/>
-                                <include reference="kI6-kc-tci"/>
-                                <include reference="9aD-eG-k8Q"/>
+                                <include reference="31M-k4-RHs"/>
+                                <include reference="S4f-Tz-XXZ"/>
+                                <include reference="b5F-OG-gs7"/>
                             </mask>
                         </variation>
                     </view>
@@ -328,6 +328,7 @@
                         <viewControllerLayoutGuide type="bottom" id="2yx-U9-bTL"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="ixc-KT-R5I">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0 colorful characters" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lvE-rD-X6T">
@@ -382,6 +383,7 @@
                         <viewControllerLayoutGuide type="bottom" id="xnP-rG-gnK"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="9MX-GH-HBQ">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>

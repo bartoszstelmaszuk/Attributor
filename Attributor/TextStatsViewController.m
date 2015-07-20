@@ -43,7 +43,7 @@
 - (NSAttributedString *)charactersWitchAttribute:(NSString *)attrbuteName
 {
     NSMutableAttributedString *characters = [[NSMutableAttributedString alloc] init];
-    int index = 0;
+    NSUInteger index = 0;
     while (index < [self.textToAnalyze length]) {
         NSRange range;
         id value = [self.textToAnalyze attribute:attrbuteName atIndex:index effectiveRange:&range];
